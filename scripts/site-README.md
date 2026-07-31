@@ -23,7 +23,7 @@ npm run dev
 ```
 
 `npm run dev` starts the Tailwind CLI in watch mode alongside a static server with live
-reload at <http://localhost:3000>.
+reload at <http://localhost:4173>.
 
 ## Scripts
 

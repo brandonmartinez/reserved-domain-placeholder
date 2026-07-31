@@ -93,7 +93,7 @@ site rather than a tweak to this one.
 
 ```sh
 npm ci        # install
-npm run dev   # http://localhost:3000, rebuilds CSS and reloads on save
+npm run dev   # http://localhost:4173, rebuilds CSS and reloads on save
 npm run build # produces _site/
 npm run clean # removes _site/ and src/styles.css
 ```
